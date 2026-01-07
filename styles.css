@@ -89,3 +89,13 @@ a {
 .login {
     margin-left: 48px;
 }
+
+button {
+    cursor: pointer;
+}
+
+.btn__menu {
+    background-color: transparent;
+    border: none;
+    transition: all 300ms ease;
+}
